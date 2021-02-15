@@ -4,7 +4,7 @@
 
 ### Past Projects
 
-[Air Quality and COVID-19](/sample_page)
+[Air Quality and COVID-19](/COVID/index)
 Looking for patterns connecting air quality and socioeconomic factors to COVID-19 in Maryland and Baltimore City
 <img src="images/project_1_github.png?raw=true"/>
 
