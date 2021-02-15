@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Past Projects
 
 [Air Quality and COVID-19](/sample_page)
 <img src="images/project_1_github.png?raw=true"/>
