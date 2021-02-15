@@ -5,15 +5,15 @@
 ### Category Name 1 
 
 [Air Quality and COVID-19](/sample_page)
-<img src="images/project_1_github?raw=true"/>
+<img src="images/project_1_github.png?raw=true"/>
 
 ---
 [Alaska Map](/pdf/sample_presentation.pdf)
-<img src="images/project_2_github?raw=true"/>
+<img src="images/project_2_github.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/project_3_github?raw=true"/>
+<img src="images/project_3_github.png?raw=true"/>
 
 ---
 
