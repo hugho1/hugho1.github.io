@@ -9,12 +9,12 @@ Looking for patterns connecting air quality and socioeconomic factors to COVID-1
 <img src="images/project_1_github.png?raw=true"/>
 
 ---
-[Alaska Map](/pdf/sample_presentation.pdf)
+[Alaska Map](/alaska/index)
 Learning how to use QGIS
 <img src="images/project_2_github.png?raw=true"/>
 
 ---
-[Bangledesh Map](http://example.com/)
+[Bangledesh Map]()
 Expanding knowledge of QGIS tools
 <img src="images/project_3_github.png?raw=true"/>
 
