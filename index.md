@@ -5,14 +5,17 @@
 ### Past Projects
 
 [Air Quality and COVID-19](/sample_page)
+Looking for patterns connecting air quality and socioeconomic factors to COVID-19 in Maryland and Baltimore City
 <img src="images/project_1_github.png?raw=true"/>
 
 ---
 [Alaska Map](/pdf/sample_presentation.pdf)
+Learning how to use QGIS
 <img src="images/project_2_github.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
+Expanding knowledge of QGIS tools
 <img src="images/project_3_github.png?raw=true"/>
 
 ---
