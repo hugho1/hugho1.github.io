@@ -14,7 +14,7 @@ Learning how to use QGIS
 <img src="images/project_2_github.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Bangledesh Map](http://example.com/)
 Expanding knowledge of QGIS tools
 <img src="images/project_3_github.png?raw=true"/>
 
