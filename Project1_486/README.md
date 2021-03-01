@@ -2,7 +2,7 @@
 Calculate landcover in areas in Baltimore where I have camera trap data from.
 
 ## Data
-Lancover data from the Chesepeake [Bay Land Conservancy] (https://www.chesapeakeconservancy.org/conservation-innovation-center/high-resolution-data/)
+Lancover data from the Chesepeake [Bay Land Conservancy](https://www.chesapeakeconservancy.org/conservation-innovation-center/high-resolution-data/)
 Point camera Trap data from Dr. Colin Studds of the Geography and Environmental Systems Department at UMBC
 
 ## Transformation
