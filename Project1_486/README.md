@@ -3,7 +3,7 @@ Calculate landcover in areas in Baltimore where I have camera trap data from.
 
 ## Data
 Lancover data from the [Chesepeake Bay Land Conservancy](https://www.chesapeakeconservancy.org/conservation-innovation-center/high-resolution-data/)
-Point camera Trap data from Dr. Colin Studds of the Geography and Environmental Systems Department at UMBC
+n\Point camera Trap data from Dr. Colin Studds of the Geography and Environmental Systems Department at UMBC
 
 ## Transformation
 Transform landcover and point data to same coordinate system. Possibly EPSG: 26985 NAD 83 / Maryland or EPSG: 3857 WGS 84 / Pseudo-Mercator
